@@ -1,5 +1,5 @@
 
-<h1 align="center">Store Cart</h1>
+<h1 align="center">Shady Store</h1>
 
 
 ### Overview
