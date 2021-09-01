@@ -1,5 +1,5 @@
 
-<h1 align="center"><a src='https://shady-store-front.netlify.app/'>Shady Store</a></h1>
+<h1 align="center"><a href='https://shady-store-front.netlify.app/'>Shady Store</a></h1>
 
 
 ### Overview
