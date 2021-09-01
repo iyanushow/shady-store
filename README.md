@@ -1,9 +1,9 @@
 
-<h1 align="center">Shady Store</h1>
+<h1 align="center"><a src='https://shady-store-front.netlify.app/'>Shady Store</a></h1>
 
 
 ### Overview
-![Screenshot (77)](https://user-images.githubusercontent.com/62676042/130693434-d65402fc-981f-4c9d-8b29-210f993b6a1a.png)(https://shady-store-front.netlify.app/)
+![Screenshot (77)](https://user-images.githubusercontent.com/62676042/130693434-d65402fc-981f-4c9d-8b29-210f993b6a1a.png)
 I built a product landing page of a furniture website and implemented the shopping cart functionality with vanilla javascript focusing on DOM manipulation and OOP. Still under construction, improvements planned to develop into a full stack furnitur purchase website
 
 ### Built With
